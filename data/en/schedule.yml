@@ -26,7 +26,7 @@ schedule:
 
           ### Lecture 1
 
-          Introduction to randomized methonds in algorithms, an an overview of approaches to coping with NP-hardness (approximation and parameterization). Analyze randomized algorithms (e.g, min-cut, polynomial identity testing).
+          Introduction to randomized methods in algorithms, an overview of approaches to coping with NP-hardness (approximation and parameterization). Analyze randomized algorithms (e.g, min-cut, polynomial identity testing).
 
           ###### Daniel Lokshtanov
           "
