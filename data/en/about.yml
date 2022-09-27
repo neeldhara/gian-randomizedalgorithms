@@ -1,0 +1,56 @@
+################## about #################################
+about:
+  title_outline : "About"
+  enable : true
+  image : "images/bg/ctg.jpg"
+  title : "Randomized Methods<br> For Approximation And Parameterized Algorithms <hr>"
+  content : "<p>Most computational problems that model real-world issues are not known to admit efficient algorithms that are provably correct on all inputs. Many of these problems can be reduced to one of the classical problems called NP-complete problems which are unlikely to admit efficient algorithms in practice, and the issue of whether they do is a fundamental open problem in computer science. Although these problems are very unlikely to be solvable efficiently in the immediate future, computer scientists, over the last few decades, have come up with several “workarounds” to “cope” with NP-hardness.
+</p><p>
+Two fundamental approaches in this program include approximation and fixed- parameter tractability. An approximate algorithm is a way of dealing with NP- completeness for optimization problem. This technique does not guarantee the best solution. The goal of an approximation algorithm is to come as close as possible to the optimum value in a reasonable amount of time which is at most polynomial time. On the other hand, parameterized algorithms aim to restrict the exponential blow-up to an identified parameter of the problem, leading to efficient exact algorithms whenever the said parameter is reasonably small. In recent times, there has been substantial research that involves an interplay of techniques from both approaches as well.
+</p><p>
+All paradigms of algorithm design, including efficient polynomial time algorithms as well as the methods of approximation and parameterization discussed above, are substantially more powerful when combined with techniques based on randomness. Carefully employed, randomization leads to approaches that are faster and easier to implement than their deterministic counterparts, making them particularly well-suited to practice.
+</p><p>
+Over the last two decades, sophisticated probabilistic techniques have been developed for a broad range of challenging computing applications. To begin with, this course will introduce the basic probabilistic techniques used in the design of randomized algorithms and in probabilistic analysis of algorithms. The course covers the basic probability theory required for working with these techniques and demonstrates their use in various computing applications, especially in the context of parameterized and approximation algorithms.
+</p><p>
+This course will demonstrate the algorithmic techniques in the context of a variety of combinatorial optimization problems that have significant real-world applications. These include: Longest Path, Minimum Cut, Maximum Cut, Clustering, Vertex Cover, Feedback Vertex Set, and Closest String.</p>
+"
+################## sponsor ###############################
+sponsor:
+  enable : false
+  # sponsor data comes from "homepage.yml" file
+
+
+################## Feature ##############################
+feature:
+  enable : false
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** & influencers in a unique **3-days** experience."
+  button:
+    enable : true
+    label : "Get ticket"
+    link : "pricing"
+
+  feature_item:
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#17a2b8"
+      content : "Starting a mentoring program might be the closest you'll ever get."
+
+    # feature item loop
+    - title : "Valuable Insight"
+      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "" # if color is empty, it will get the default dark color
+      content : "Starting a mentoring program might be the closest you'll ever get."
+
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#ff4747"
+      content : "Starting a mentoring program might be the closest you'll ever get."
+
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#4125dd"
+      content : "Starting a mentoring program might be the closest you'll ever get."

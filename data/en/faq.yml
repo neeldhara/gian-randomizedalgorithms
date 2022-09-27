@@ -1,0 +1,74 @@
+################################# Faq ####################################
+faq:
+  title_outline : "Faq"
+  title : "Frequently Asked Questions (Anticipated)"
+  content : "Please get in touch by sending an email to neeldhara.m -AT- iitgn.ac.in if you have any questions that are not covered here. Please use the word GIAN in your subject line."
+  faq_item:
+    # faq item loop
+    - title : "What are the pre-requisites for following this course?"
+      content : "Prior exposure to undergraduate-level algorithms would be the main pre-requisite. Experience with parameterized and approximation algorithms is desirable but not absolutely required."
+
+    - title : "What is the evaluation criteria for obtaining a certificate?"
+      content : "For the certification, we expect consistent participation. Worksheets will be handed out in the tutorials and we will share feedback on your solutions, but this will not formally count towards your evaluation. All participants (remote or on-site) are expected to help develop lecture notes around this topic."
+
+    # faq item loop
+    - title : "Who is eligible to attend?"
+      content : "Students who meet the pre-requisites described above are welcome to attend. The workshop is also open to postdocs, faculty, and professionals, but we are unfortunately not able to offer accommodation (except in the hostels). You are welcome to join us virtually, or in person if you are able to make your own arrangements for accommodation. For participants who are joining us onsite but do not need accommodation on campus, the local registration is sufficient."
+
+    # faq item loop
+    - title : "Which payments method are avaliable?"
+      content : "You can pay by UPI/NEFT by transferring the registration amount to the following bank account:
+
+      - BANK NAME: Canara Bank
+
+      - IFSC Code: CNRB0005159
+
+      - BANK ACCOUNT NUMBER: 1414132000015
+
+      - BANK ACCOUNT TYPE: SAVINGS"
+
+    # faq item loop
+    - title : "Is there any travel support/registration fee waiver?"
+      content : "Unfortunately, we are not able to provide financial support at the moment. However, the lectures will be live streamed on YouTube and will remain accessible at no cost."
+
+    # faq item loop
+    - title : "Why should I pay the registration fee for virtual attendance if the lectures will be streamed for free?"
+      content : "The main difference is that you will be able to join the lectures over Zoom and have an opportunity interact with the instructor and other participants. You will also get access to the assignments, and will be eligible for a certificate subject to participation. You will also get welcome kit in your (physical) mail!"
+
+    # faq item loop
+    - title : "Is accommodation guaranteed if I register with the outstation option?"
+      content : "Limited shared accommodation is available in the IIT Gandhinagar hostels. If we are not able to offer accommodation, the option for outstation participants to register will be closed. For this reason, we recommend registering sooner than later if you are an outstation student keen on participating in person. In the very unlikely event that you register and accommodation on campus is unavailable, we will refund your registration fee."
+
+    # faq item loop
+    - title : "Is a refund is avalaible for any valid reason?"
+      content : "The registration fees are not refundable in general. We may be able to make exceptions in special cases: please send an email to neeldhara.m -AT- iitgn.ac.in if you have to cancel your participation due to exceptional circumstances. **We will not be able to consider requests for refunds after the regular registration deadline, i.e, 15th November, 2022.**"
+
+    # faq item loop
+    - title : "When wil I have to reach?"
+      content : "We recommend arriving by the evening of the 4th or early morning on the 5th of December."
+
+    # faq item loop
+    - title : "How do I get to IIT Gandhinagar?"
+      content : "
+      Please see <a href=\"https://iitgn.ac.in/about/faq\" style=\"color: blue;\">this page</a> for more details about reaching IITGN and <a href=\"https://campus.iitgn.ac.in\" style=\"color: blue;\">this page</a> for general information about the IIT Gandhinagar campus.
+
+      - Sardar Vallabhbhai Patel International Airport (AMD) is an international airport serving the cities of Ahmedabad and Gandhinagar in Gujarat, India and is nearer to our IIT campus.
+
+      - Ahmedabad Junction Railway Station (ADI), locally known as Kalupur station is the main terminus which is very well connected with the other parts of the country.
+
+      - Geeta Mandir & Paldi are the bus terminals of Ahmedabad city.
+
+      "
+
+    - title : "When does the course registration happen?"
+      content : "At 10AM on the 5th of December."
+
+    - title : "Where can I get dinner and breakfast?"
+      content : "You can have dinner and breakfast at the students mess, or any of the cafeterias on campus."
+
+  ################ support #################
+  support:
+    title : "Need Any further Support?"
+    button:
+      lable : "Contact us"
+      link : "contact"

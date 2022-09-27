@@ -1,0 +1,112 @@
+################################# timer ############################
+timer:
+  enable : true
+  title : "**Countdown** <br>to the start of the workshop"
+  # timer value comes from "homepage.yml" file
+  content : "Join us for the 5-day GIAN course on Randomized Methods For Approximation And Parameterized Algorithms. <br> <span style=\"color:red;\"> - Early Bird Registration Deadline: 25 October, 2022.</span>  <br> - Regular Registration Deadline: 30 November, 2022. <br> - Registration for the virtual mode will remain open until 4th December, 2022  <hr> If you do not need a certificate of participation, intend to join virtually over YouTube, and want to subscribe to major announcements, please sign up here. <br>**The opportunity to participate will be very limited in this setting. For a more interactive experience, please see below.** <hr> If you are not ready to sign up yet, but want a reminder ahead of the early-bird deadline, you can sign up here."
+
+################################# Pricing ##########################
+pricing:
+  enable : true
+  title_outline : "Sign Up"
+  title : "Eary-bird Registration"
+  content : "The lectures will be streamed on YouTube and will be available for free. However, <u>registration and attendance is mandatory for those who need a certificate</u>. Register on or before **25 October, 2022** to avail the rates below."
+  title2 : "Regular Registration"
+  content2 : "The deadline for regular registration is 15 November, 2022. Registration for the virtual mode will remain open until 4th December, 2022."
+  pricing_table:
+    # pricing table loop
+    - title : "Virtual"
+      style : "1"
+      price : "1500 INR"
+      icon : "tf-ion-android-bulb"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Welcome Kit"
+        - "Join over Zoom"
+        - "Participate in Q&A"
+        - "Bring your own food and drink :)"
+      button:
+        label : "Sign Up"
+        link : "#"
+
+    # pricing table loop
+    - title : "Local"
+      style : "2"
+      price : "5000 INR"
+      icon : "tf-ion-android-hangout"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Welcome Kit"
+        - "Lunch and Coffee"
+        - "In-person interactions"
+        - "No accommodation"
+      button:
+        label : "Sign Up"
+        link : "#"
+
+    # pricing table loop
+    - title : "Outstation"
+      style : "3"
+      price : "10000 INR"
+      icon : "tf-ion-android-person"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Welcome Kit"
+        - "Lunch and Coffee"
+        - "In-person interactions"
+        - "Shared hostel accommodation on campus"
+      button:
+        label : "Sign Up"
+        link : "#"
+
+
+  pricing_table2:
+    # pricing table loop
+    - title : "Virtual"
+      style : "1"
+      price : "1500 INR"
+      icon : "tf-ion-android-bulb"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Welcome Kit"
+        - "Join over Zoom"
+        - "Participate in Q&A"
+        - "Bring your own food and drink :)"
+      button:
+        label : "Available Later"
+        link : "#"
+
+    # pricing table loop
+    - title : "Local"
+      style : "2"
+      price : "10000 INR"
+      icon : "tf-ion-android-hangout"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Welcome Kit"
+        - "Lunch and Coffee"
+        - "In-person interactions"
+        - "No accommodation"
+      button:
+        label : "Available Later"
+        link : "#"
+
+    # pricing table loop
+    - title : "Outstation"
+      style : "3"
+      price : "15000 INR"
+      icon : "tf-ion-android-person"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Welcome Kit"
+        - "Lunch and Coffee"
+        - "In-person interactions"
+        - "Shared hostel accommodation on campus"
+      button:
+        label : "Available Later"
+        link : "#"
+
+############################## Event ##############################
+event:
+  enable : false
+  # event content comes from "homepage.yml" file

@@ -1,0 +1,135 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "Randomized Methods <br> For Approximation And Parameterized Algorithms"
+  bg_image: "images/banner/banner-1.png"
+  date_time : "December 5th - 9th, 2022"
+  instructor : "Daniel Lokshtanov"
+  mode : "Hybrid Mode at IIT Gandhinagar"
+  button:
+    enable : "Discover more"
+    label : "Discover more"
+    link : "about"
+
+########################## timer #################################
+timer:
+  enable : true
+  title : "**Countdown** <br> to the start of the workshop "
+  # set timer
+  year: "2022"
+  month: "12"
+  day: "05"
+  hour: "09"
+
+############################## Event ##############################
+event:
+  enable : false
+  title_outline : "event"
+  title : "The New Era of Tech Companies"
+  image_back : "images/about/h1-gallery-img-7.jpg"
+  image_front : "images/about/main-home-img-1.jpg"
+  content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
+              auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
+  button:
+    enable : true
+    label : "Discover More"
+    link : "service"
+
+######################### Call to action #########################
+cta:
+  enable : true
+  subtitle : "Professor, University of California Santa Barbara"
+  title: "Daniel Lokshtanov"
+  content1: "Daniel Lokshtanov is an associate professor at the Department of Computer Science at the University of California Santa Barbara, before which he was a professor at the Department of Informatics at the University of Bergen. He received his PhD in Computer Science (2009), from the University of Bergen. He spent two years (2010- 2012) as a Simons Postdoctoral Fellow at University of California at San Diego."
+  content2: "His research interests span a wide area of algorithms, and he has made several fundamental contributions in the areas of exact exponential algorithms, parameterized and fine-grained algorithms and approximation algorithms. He has been awarded the prestigious Meltzer Prize for Young Researchers for his work at the University of Bergen. He is a recipient of the Bergen Research Foundation young researcher grant and of an ERC starting grant on parameterized algorithms. He is a co-author of two recently published texts --- Kernelization (Cambridge University Press, 2019) and Parameterized Algorithms (Springer, 2015)."
+  image : "images/banner/daniel.png"
+  button:
+    enable : false
+    label : "Register Now"
+    link : "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: false
+  feature_item:
+    # feature item loop
+    - name : "Valuable Insight"
+      icon : "tf-ion-android-microphone"
+      content : "Events Drinks and Dancing are hosting an After Party and YOU ARE INVITED!!"
+
+    # feature item loop
+    - name : "Global Audience"
+      icon : "tf-ion-android-globe"
+      content : "Starting a mentoring program might be the closest you'll ever get to making a business decision that has exclusively positive impact."
+
+    # feature item loop
+    - name : "Great Community"
+      icon : "tf-ion-android-share"
+      content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
+
+####################### Schedule #############################
+schedule:
+  enable : true
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : true
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : false
+  title_outline : "Speakers"
+  title : "Who're speaking"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  true
+  title_outline : "Sponsors"
+  title : ""
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : "We are grateful for support from:"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/gian.jpg"
+          link : "#"
+
+        # sponcor loop
+        - logo : "images/clients/moe.png"
+          link : "#"
+
+        # sponcor loop
+        - logo : "images/clients/logo-short-black.png"
+          link : "#"
+
+  # call to action in sponsor
+  sponsorship:
+    enable : false
+    title : "Want to be a sponsor ?"
+    #button
+    label : "apply now"
+    link : "#"
+
+################################ venue ########################
+venue:
+  enable : true
+  title : "Venue location"
+  image : "images/bg/campus.jpg"
+  date : "5 - 9 December, 2022"
+  location : "Indian Institute of Technology, Gandhinagar <br> near GIFT City <br> Palaj, Gandhinagar <br> 382355"
+  button:
+    enable : true
+    label : "More Information"
+    link : "https://iitgn.ac.in/contact"
+
+############################### Blog ######################################
+blog:
+  enable : false
+  title_outline : "News"
+  title : "Latest News"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder

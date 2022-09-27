@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- speaker style 1 -->
+<section class="section-speaker section" style="padding-bottom:0px;">
+  <div class="container">
+    <div class="row section-heading">
+      <div class="col-lg-6">
+        <div class="heading">
+          <span class="stroke-text">{{ .Title }}</span>
+          <div class="pl-90 content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /speaker style 1 -->
+
+<!-- call to action -->
+{{ if $data.homepage.cta.enable }}
+{{ with $data.homepage.cta }}
+<section class="section cta-wrap" style="padding-top:0px;">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-7">
+        <div class="cta-content">
+          <span class="lead">{{ .subtitle | markdownify }}</span>
+          <h2 class="mt-3 mb-4 text-md title">{{ .title | markdownify }}</h2>
+          <p>{{ .content1 | markdownify }}</p>
+          <p>{{ .content2 | markdownify }}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .link | absLangURL }}" class="btn btn-secondary btn-rounded">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+      <div class="col-lg-5 mt-5 mt-lg-0 d-none d-lg-block">
+        <img src="{{ .image | absURL }}" alt="" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /call to action -->
+{{ end }}

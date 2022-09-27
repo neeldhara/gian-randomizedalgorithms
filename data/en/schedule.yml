@@ -1,0 +1,322 @@
+schedule:
+  enable : true
+  title_outline : "schedule"
+  title : "5-Day Course"
+  content : "All sessions will begin with a volunteer-driven recap (15 minutes), followed by the lecture (1 hour), and discussion (15 minutes). Tutorials will be interactive problem-solving sessions."
+  schedule_tab:
+    ################# tab itam loop ################
+    - title : "Day 1"
+      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+
+
+
+        - time : "10.30am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee
+          "
+
+
+        - time : "11.00am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 1
+
+          Introduction to randomized methonds in algorithms, an an overview of approaches to coping with NP-hardness (approximation and parameterization). Analyze randomized algorithms (e.g, min-cut, polynomial identity testing).
+
+          ###### Daniel Lokshtanov
+          "
+
+
+        - time : "12.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lunch Break
+          "
+
+        - time : "2.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 2
+
+          Concentration bounds (Chernoff and Hoeffding).
+
+          ###### Daniel Lokshtanov
+          "
+
+        - time : "4.00pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee Break
+          "
+
+        - time : "4.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Tutorial
+
+          Review of discrete probability spaces (events, expectation, variance, Chebyshev inequality).
+
+          ###### Neeldhara Misra
+          "
+    ################# tab itam loop ################
+    - title : "Day 2"
+      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+
+
+
+        - time : "10.30am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee
+          "
+
+
+        - time : "11.00am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 3
+
+          Randomized algorithms for Feedback Vertex Set and generalization to Planar F-Deletion
+
+          ###### Daniel Lokshtanov
+          "
+
+
+        - time : "12.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lunch Break
+          "
+
+        - time : "2.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 4
+
+          Color Coding (k-Path) and Chromatic Coding (Feedback Arc Set on Tournaments and d-Clustering)
+
+          ###### Daniel Lokshtanov
+          "
+
+        - time : "4.00pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee Break
+          "
+
+        - time : "4.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Tutorial
+
+          Introduction to LPs and SDPs and deterministic rounding schemes (Vertex Cover, Feedback Vertex Set)
+
+          ###### Daniel Lokshtanov
+          "
+    ################# tab itam loop ################
+    - title : "Day 3"
+      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+
+
+
+        - time : "10.30am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee
+          "
+
+
+        - time : "11.00am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 5
+
+          Randomized rounding of LPs (PTAS for Closest String)
+          ###### Daniel Lokshtanov
+          "
+
+
+        - time : "12.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lunch Break
+          "
+
+        - time : "2.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 6
+
+          Randomized rounding of SDPs (0.87 Goeman and Williamson approximation for Max Cut)
+
+          ###### Daniel Lokshtanov
+          "
+
+        - time : "4.00pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee Break
+          "
+
+        - time : "4.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Tutorial
+
+          Introduction to Tree Decompositions and Dynamic Programming over Graphs of Bounded Treewidth
+
+          ###### Neeldhara Misra
+          "
+    ################# tab itam loop ################
+    - title : "Day 4"
+      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+
+
+
+        - time : "10.30am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee
+          "
+
+
+        - time : "11.00am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 7
+
+          Cut and Count for improved dynamic programming over tree decompositions.
+
+          ###### Daniel Lokshtanov
+          "
+
+
+        - time : "12.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lunch Break
+          "
+
+        - time : "2.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 8
+
+          Derandomization: k-wise independence and near k-wise independence; splitters
+
+          ###### Daniel Lokshtanov
+          "
+
+        - time : "4.00pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee Break
+          "
+
+        - time : "4.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Tutorial
+
+          Introduction to Representative Sets
+
+          ###### Daniel Lokshtanov
+          "
+    ################# tab itam loop ################
+    - title : "Day 5"
+      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+      schedule_items:
+        # schedule loop item
+
+
+
+        - time : "10.30am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee
+          "
+
+
+        - time : "11.00am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 9
+
+          Constructions of near k-wise independent sample spaces, constructions of universal sets
+
+          ###### Daniel Lokshtanov
+          "
+
+
+        - time : "12.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lunch Break
+          "
+
+        - time : "2.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Lecture 10
+
+          Constructions of universal coloring families
+
+          ###### Daniel Lokshtanov
+          "
+
+        - time : "4.00pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Coffee Break
+          "
+
+        - time : "4.30pm"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Tutorial
+
+          Efficient computation of representative sets
+
+
+          ###### Daniel Lokshtanov
+          "
+

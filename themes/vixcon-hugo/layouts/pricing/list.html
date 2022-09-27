@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<!-- timer -->
+{{ if $data.pricing.timer.enable }}
+<section class="section">
+  <div class="container">
+    <div class="position-relative">
+      <div class="row align-items-center">
+          {{ with $data.pricing.timer }}
+          <div class="counter-stat">
+            <p>{{ .content | markdownify }}</p>
+          </div>
+          {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /timer -->
+
+<!-- pricing -->
+{{ if $data.pricing.pricing.enable }}
+{{ partial "pricing.html" . }}
+{{ end }}
+<!-- /pricing  -->
+
+<!-- event  -->
+{{ if $data.pricing.event.enable }}
+{{ partial "event.html" . }}
+{{ end }}
+<!-- /event -->
+
+{{ end }}
