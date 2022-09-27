@@ -40,7 +40,7 @@ cta:
   enable : true
   subtitle : "Professor, University of California Santa Barbara"
   title: "Daniel Lokshtanov"
-  content1: "Daniel Lokshtanov is a Professor at the Department of Computer Science at the University of California Santa Barbara, before which he was a professor at the Department of Informatics at the University of Bergen. He received his PhD in Computer Science (2009), from the University of Bergen. He spent two years (2010- 2012) as a Simons Postdoctoral Fellow at University of California at San Diego."
+  content1: "Daniel Lokshtanov is a Professor at the Department of Computer Science at the University of California Santa Barbara, before which he was a Professor at the Department of Informatics at the University of Bergen. He received his PhD in Computer Science (2009), from the University of Bergen. He spent two years (2010- 2012) as a Simons Postdoctoral Fellow at University of California at San Diego."
   content2: "His research interests span a wide area of algorithms, and he has made several fundamental contributions in the areas of exact exponential algorithms, parameterized and fine-grained algorithms and approximation algorithms. He has been awarded the Meltzer Prize for Young Researchers for his work at the University of Bergen. He is a recipient of the Bergen Research Foundation young researcher grant and of an ERC starting grant on parameterized algorithms. He is a co-author of two recently published texts --- Kernelization (Cambridge University Press, 2019) and Parameterized Algorithms (Springer, 2015)."
   image : "images/banner/daniel.jpg"
   button:
