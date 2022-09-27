@@ -16,6 +16,9 @@
           <p></p>
           <span>{{ .mode }}</span>
           <p></p>
+          <p></p>
+          <span style="color:red;">{{ .deadline }}</span>
+          <p></p>
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | absLangURL }}" class="btn btn-hero btn-rounded">{{ .label }}</a>

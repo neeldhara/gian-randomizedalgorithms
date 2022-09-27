@@ -16,6 +16,10 @@ faq:
       content : "Students who meet the pre-requisites described above are welcome to attend. The workshop is also open to postdocs, faculty, and professionals, but we are unfortunately not able to offer accommodation (except in the hostels). You are welcome to join us virtually, or in person if you are able to make your own arrangements for accommodation. For participants who are joining us onsite but do not need accommodation on campus, the local registration is sufficient."
 
     # faq item loop
+    - title : "What is the registration process?"
+      content : "If you would like to join the course officially, then please register through the <a href=\"https://gian.iitkgp.ac.in/GREGN/index\" style=\"color:blue;\">GIAN portal first</a>. You can then come back and <a href=\"#\" style=\"color:red;\" data-tally-open=\"w7RkrR\" data-tally-layout=\"modal\" data-tally-emoji-text=\"🎯\" data-tally-emoji-animation=\"none\">register here</a> by paying the appropriate registration fee depending on the mode of joining. For informal participation, please register here directly. The same registration fees are applicable in both scenarios."
+
+    # faq item loop
     - title : "Which payments method are avaliable?"
       content : "You can pay by UPI/NEFT by transferring the registration amount to the following bank account:
 
@@ -60,11 +64,17 @@ faq:
 
       "
 
-    - title : "When does the course registration happen?"
-      content : "At 10AM on the 5th of December."
+    - title : "When do I get my welcome kit?"
+      content : "For those joining us onsite: 10AM on the 5th of December at the venue. For virtual participants, kits will be mailed out in advance."
 
     - title : "Where can I get dinner and breakfast?"
       content : "You can have dinner and breakfast at the students mess, or any of the cafeterias on campus."
+
+    - title : "Can I register in one mode now and switch later?"
+      content : "You can register for virtual participation and switch to onsite later by paying the difference in the registration fees and mentioning this in the remarks section on the registration form. However, if you decide to switch from onsite participation to virtual, please note that the difference will not be refunded."
+
+    - title : "Can a registration be transferred ?"
+      content : "Unfortunately, registrations are not transferable."
 
   ################ support #################
   support:

@@ -5,7 +5,8 @@ banner:
   bg_image: "images/banner/banner-1.png"
   date_time : "December 5th - 9th, 2022"
   instructor : "Daniel Lokshtanov"
-  mode : "Hybrid Mode at IIT Gandhinagar"
+  mode : "Hybrid Mode at IIT Gandhinagar (AB 1/201)"
+  deadline: "Early-bird registration deadline: 25 October, 2022"
   button:
     enable : "Discover more"
     label : "Discover more"
