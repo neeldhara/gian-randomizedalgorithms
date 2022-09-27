@@ -43,12 +43,12 @@ link = "plugins/google-map/map.js"
 
 ############################## navigation ###############################
 [menu]
-    
+
   [[menu.main]]
   name = "About"
   URL = "about"
   weight = 2
-  
+
   [[menu.main]]
   name = "Speakers"
   URL = "speaker"
@@ -78,7 +78,7 @@ link = "plugins/google-map/map.js"
     parent = "Pages"
     name = "FAQ"
     URL = "faq"
-    
+
   [[menu.main]]
   name = "Contact"
   URL = "contact"
