@@ -50,7 +50,7 @@ faq:
       content : "The registration fees are not refundable in general. We may be able to make exceptions in special cases: please send an email to neeldhara.m -AT- iitgn.ac.in if you have to cancel your participation due to exceptional circumstances. **We will not be able to consider requests for refunds after the regular registration deadline, i.e, 15th November, 2022.**"
 
     # faq item loop
-    - title : "When wil I have to reach?"
+    - title : "When will I have to reach?"
       content : "We recommend arriving by the evening of the 4th or early morning on the 5th of December."
 
     # faq item loop
@@ -63,11 +63,10 @@ faq:
       - Ahmedabad Junction Railway Station (ADI), locally known as Kalupur station is the main terminus which is very well connected with the other parts of the country.
 
       - Geeta Mandir & Paldi are the bus terminals of Ahmedabad city.
-
       "
 
     - title : "When do I get my welcome kit?"
-      content : "For those joining us onsite: 10AM on the 5th of December at the venue. For virtual participants, kits will be mailed out in advance."
+      content : "For those joining us onsite: 10AM on the 5th of December at the venue. For virtual participants, kits will be mailed out in advance. At the moment, we are only anticipating domestic shipping --- for international participants, we will reach out to you to figure out shipping logistics, which may involve additional costs and customs: but please don't let this stop you from applying!"
 
     - title : "Where can I get dinner and breakfast?"
       content : "You can have dinner and breakfast at the students mess, or any of the cafeterias on campus. Many places serve non-vegetarian options as well. If you have dietary restrictions, please remember to indicate it in the registration form."
