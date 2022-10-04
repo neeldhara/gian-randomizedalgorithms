@@ -15,29 +15,31 @@ faq:
     - title : "Who is eligible to attend?"
       content : "Students who meet the pre-requisites described above are welcome to attend. The workshop is also open to postdocs, faculty, and professionals, but we are unfortunately not able to offer accommodation (except in the hostels). You are welcome to join us virtually, or in person if you are able to make your own arrangements for accommodation. For participants who are joining us onsite but do not need accommodation on campus, the local registration is sufficient."
 
-    # faq item loop
-    - title : "What is the registration process?"
-      content : "If you would like to join the course officially, then please register through the <a href=\"https://gian.iitkgp.ac.in/GREGN/index\" style=\"color:blue;\">GIAN portal first</a>. You can then come back and <a href=\"#\" style=\"color:red;\" data-tally-open=\"w7RkrR\" data-tally-layout=\"modal\" data-tally-emoji-text=\"🎯\" data-tally-emoji-animation=\"none\">register here</a> by paying the appropriate registration fee depending on the mode of joining. For informal participation, please register here directly. The same registration fees are applicable in both scenarios."
 
     # faq item loop
-    - title : "Which payments method are avaliable?"
-      content : "You can pay by UPI/NEFT by transferring the registration amount to the following bank account:
+    - title : "<span style=\"color:black;\">Why should I pay the registration fee for virtual attendance if the lectures will be streamed for free?</span>"
+      content : "The main difference is that you will be able to join the lectures over Zoom and have an opportunity interact with the instructor and other participants. You will also get access to the assignments, and will be eligible for a certificate subject to participation. You will also get welcome kit in your (physical) mail!"
 
-      - BANK NAME: Canara Bank
+    # faq item loop
+    - title : "What is the registration process to join the course officially?"
+      content : "If you would like to join the course officially, then registration is a three-step process. </p> <p> (1) Register through the <a href=\"https://gian.iitkgp.ac.in/GREGN/index\" style=\"color:red;\">GIAN portal first</a>. </p><p> (2) Next, pay the registration fee <a href=\"https://events.iitgn.ac.in/apply/application_randomizedalgos.php?eventid=2102022934\" style=\"color:red;\">at this link</a>. Please make sure to pay the appropriate registration fee depending on the mode of participation (more details about available modes are provided on this page).</p><p>  (3) Complete your registration by <a href=\"#\" style=\"color:red;\" data-tally-open=\"w7RkrR\" data-tally-layout=\"modal\" data-tally-emoji-text=\"🎯\" data-tally-emoji-animation=\"none\">filling out this form</a>."
 
-      - IFSC Code: CNRB0005159
+    # faq item loop
+    - title : "What is the registration process to join the course unofficially?"
+      content : "For informal participation (i.e, if you do not need a certificate), you can skip step (1) from the official registration process. The same registration fees are applicable in both scenarios."
 
-      - BANK ACCOUNT NUMBER: 1414132000015
+    # faq item loop
+    - title : "What is the registration process to watch the videos over youtube?"
+      content : "If you do not need a certificate of participation, intend to join virtually over YouTube, and want to subscribe to major announcements, <a href=\"#\" style=\"color:green;\" data-tally-open=\"nGxG2k\" data-tally-layout=\"modal\" data-tally-emoji-text=\"📥\" data-tally-emoji-animation=\"tada\" data-tally-auto-close=\"5000\">please sign up here</a>. <b>Please note that the opportunity to participate will be very limited in this setting. For a more complete experience, please look into the other options.</b>"
 
-      - BANK ACCOUNT TYPE: SAVINGS"
+    # faq item loop
+    - title : "What methods of payment are avaliable?"
+      content : "You can pay the registration fee <a href=\"https://events.iitgn.ac.in/apply/application_randomizedalgos.php?eventid=2102022934\" style=\"color:red;\">at this portal</a>. Most online methods (PayTM, credit and debit cards, UPI, and Net Banking) are available as shown below. <p><img src=\"../images/payment.png\" />"
 
     # faq item loop
     - title : "Is there any travel support/registration fee waiver?"
       content : "Unfortunately, we are not able to provide financial support at the moment. However, the lectures will be live streamed on YouTube and will remain accessible at no cost."
 
-    # faq item loop
-    - title : "Why should I pay the registration fee for virtual attendance if the lectures will be streamed for free?"
-      content : "The main difference is that you will be able to join the lectures over Zoom and have an opportunity interact with the instructor and other participants. You will also get access to the assignments, and will be eligible for a certificate subject to participation. You will also get welcome kit in your (physical) mail!"
 
     # faq item loop
     - title : "Is accommodation guaranteed if I register with the outstation option?"
@@ -68,13 +70,22 @@ faq:
       content : "For those joining us onsite: 10AM on the 5th of December at the venue. For virtual participants, kits will be mailed out in advance."
 
     - title : "Where can I get dinner and breakfast?"
-      content : "You can have dinner and breakfast at the students mess, or any of the cafeterias on campus."
+      content : "You can have dinner and breakfast at the students mess, or any of the cafeterias on campus. Many places serve non-vegetarian options as well. If you have dietary restrictions, please remember to indicate it in the registration form."
+
+    - title : "Is the campus accessible?"
+      content : "Yes, the campus is accessible in many ways. In particular, it is wheelchair-friendly."
 
     - title : "Can I register in one mode now and switch later?"
-      content : "You can register for virtual participation and switch to onsite later by paying the difference in the registration fees and mentioning this in the remarks section on the registration form. However, if you decide to switch from onsite participation to virtual, please note that the difference will not be refunded."
+      content : "You can register for virtual participation and switch to onsite later by paying the difference in the registration fees. This will be a manual process, please contact us if you are in this situation. However, if you decide to switch from onsite participation to virtual, please note that the difference will not be refunded."
 
-    - title : "Can a registration be transferred ?"
+    - title : "Can a registration be transferred?"
       content : "Unfortunately, registrations are not transferable."
+
+    - title : "Can a registration be canceled?"
+      content : "If you are unable to join the course, please do inform us by sending an email to neeldhara.m@iitgn.ac.in. Unfortunately we are largely unable to process refunds, please see question #11 regarding refunds."
+
+    - title : "My question is not addressed above, where can I get an answer?"
+      content : "Please either use the interactive chat on this webpage or send an email to neeldhara.m@iitgn.ac.in with [191014K02 Inquiry] in the subject line."
 
   ################ support #################
   support:
