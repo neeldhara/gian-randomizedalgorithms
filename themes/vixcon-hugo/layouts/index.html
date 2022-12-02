@@ -19,8 +19,6 @@
           <p></p>
           <span style="color:red;">{{ .deadline }}</span>
           <p></p>
-          <span style="color:green;"> <a href="#" style="color:green;" data-tally-open="wobP4x" data-tally-layout="modal" data-tally-hide-title="1" data-tally-emoji-text="⏰" data-tally-emoji-animation="wave" data-tally-auto-close="2000">Remind Me Later.</a></span>
-          <p></p>
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | absLangURL }}" class="btn btn-hero btn-rounded">{{ .label }}</a>

@@ -2,7 +2,7 @@ schedule:
   enable : true
   title_outline : "schedule"
   title : "5-Day Course"
-  content : "All sessions will begin with a volunteer-driven recap (15 minutes), followed by the lecture (1 hour), and discussion (15 minutes). Tutorials will be interactive problem-solving sessions."
+  content : "Lectures will be recorded. Tutorials are planned as interactive problem-solving sessions."
   schedule_tab:
     ################# tab itam loop ################
     - title : "Day 1"
@@ -12,15 +12,33 @@ schedule:
 
 
 
-        - time : "10.30am"
+        - time : "9.00am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Registration
+          "
+
+
+        - time : "9.30am"
           image : "images/about/Blank.png"
           content : "
 
           ### Coffee
           "
+        
+        - time : "10.00am"
+          image : "images/about/Blank.png"
+          content : "
+
+          ### Inaugaration
+
+          Address by Prof. Rajat Moona (Director, IITGN)  • Address by Prof. Anirban Dasgupta (Discipline Coordinator, Computer Science and Engineering, IITGN and Local GIAN Coordinator for IITGN) • Address by Prof. Saket Saurabh (IMSc) 
+
+          "
 
 
-        - time : "11.00am"
+        - time : "10.45am"
           image : "images/about/Blank.png"
           content : "
 
